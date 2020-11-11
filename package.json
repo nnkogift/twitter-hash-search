@@ -2,7 +2,6 @@
   "name": "getpesa_teaser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gian2705.github.io/twitter-hash-search",
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.0.35",
